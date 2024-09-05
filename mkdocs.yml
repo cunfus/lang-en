@@ -117,11 +117,14 @@ markdown_extensions:
 nav:
   - 首页: 
     - index.md
+  - 工程赏析:
+    - proj/index.md
   - 书籍:
     - book/index.md
     - 如何设计程序:
       - book/htdp/index.md
       - book/htdp/htdp-2.md
+      - book/htdp/htdp-3.md
       
     - 计算机程序的构造和解释:
       - book/sicp/index.md
