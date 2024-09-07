@@ -119,13 +119,20 @@ nav:
     - index.md
   - 工程赏析:
     - proj/index.md
+  - 领域单词:
+    - domain/index.md
+    - domain/elementary-mathematics.md
+    - domain/advanced-mathematics.md
+    - 音视频:
+      - domain/audio/index.md
+  - 英语:
+    - english/index.md
   - 书籍:
     - book/index.md
     - 如何设计程序:
       - book/htdp/index.md
       - book/htdp/htdp-2.md
       - book/htdp/htdp-3.md
-      
     - 计算机程序的构造和解释:
       - book/sicp/index.md
       - book/sicp/sicp-1.1.md
@@ -143,10 +150,29 @@ nav:
       - course/vital-signs/heart.md
     - 寻找你的专业声音:
       - course/finding-your-professional-voice/index.md
-  - 领域单词:
-    - domain/index.md
-    - domain/elementary-mathematics.md
-    - domain/advanced-mathematics.md
+  - 编程语言:
+    - codelang/index.md
+    - Python:
+      - codelang/python/index.md
+      - codelang/python/1.md
+      - codelang/python/2.md
+      - codelang/python/3.md
+      - codelang/python/4.md
+      - codelang/python/5.md
+      - codelang/python/6.md
+      - codelang/python/7.md
+      - codelang/python/8.md
+    - C:
+      - codelang/c/index.md
+      - codelang/c/1.md
+      - codelang/c/2.md
+      - codelang/c/3.md
+      - codelang/c/4.md
+      - codelang/c/5.md
+      - codelang/c/6.md
+      - 标准库:
+        - codelang/c/stl/index.md
+        - codelang/c/stl/cpy.md
   - 工具:
     - tool/index.md
     - tool/man.md
