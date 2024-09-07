@@ -119,12 +119,15 @@ nav:
     - index.md
   - 工程赏析:
     - proj/index.md
-  - 领域单词:
+  - 领域知识:
     - domain/index.md
-    - domain/elementary-mathematics.md
-    - domain/advanced-mathematics.md
-    - 音视频:
-      - domain/audio/index.md
+    - 数学:
+      - domain/math/elementary.md
+      - domain/math/advanced.md
+    - 密码学:
+      - domain/enc/index.md
+      - domain/enc/1.md
+      - domain/enc/2.md
   - 英语:
     - english/index.md
   - 书籍:
