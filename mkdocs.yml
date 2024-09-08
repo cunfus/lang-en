@@ -165,6 +165,8 @@ nav:
       - codelang/python/6.md
       - codelang/python/7.md
       - codelang/python/8.md
+      - codelang/python/9.md
+      - codelang/python/10.md
     - C:
       - codelang/c/index.md
       - codelang/c/1.md
