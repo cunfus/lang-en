@@ -155,6 +155,8 @@ nav:
       - course/finding-your-professional-voice/index.md
   - 编程语言:
     - codelang/index.md
+    - Patterns:
+      - codelang/patterns/index.md
     - Python:
       - codelang/python/index.md
       - codelang/python/1.md
@@ -179,14 +181,15 @@ nav:
         - codelang/c/stl/index.md
         - codelang/c/stl/cpy.md
   - 工具:
-    - tool/index.md
-    - tool/man.md
-    - tool/zsh.md
-    - tool/tmux.md
-    - tool/vim.md
-    - tool/git.md
+    - 命令行:
+      - tool/cmd/index.md
+      - tool/cmd/man.md
+      - tool/cmd/zsh.md
+      - tool/cmd/tmux.md
+      - tool/cmd/vim.md
+      - tool/cmd/git.md
+      - tool/cmd/pacman.md
     - tool/makefile.md
-    - tool/pacman.md
     - tool/markdown.md
     - tool/jupyter.md 
     - tool/manim.md 
