@@ -197,19 +197,7 @@
          <lastmod>2024-09-10</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/tool/jupyter/</loc>
-         <lastmod>2024-09-10</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/memorandum/tool/makefile/</loc>
-         <lastmod>2024-09-10</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/memorandum/tool/manim/</loc>
-         <lastmod>2024-09-10</lastmod>
-    </url>
-    <url>
-         <loc>https://cunfus.github.io/memorandum/tool/markdown/</loc>
+         <loc>https://cunfus.github.io/memorandum/tool/</loc>
          <lastmod>2024-09-10</lastmod>
     </url>
     <url>
@@ -238,6 +226,18 @@
     </url>
     <url>
          <loc>https://cunfus.github.io/memorandum/tool/cmd/zsh/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://cunfus.github.io/memorandum/tool/text/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://cunfus.github.io/memorandum/tool/text/makefile/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://cunfus.github.io/memorandum/tool/text/markdown/</loc>
          <lastmod>2024-09-10</lastmod>
     </url>
 </urlset>
