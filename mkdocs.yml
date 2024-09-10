@@ -117,8 +117,8 @@ markdown_extensions:
 nav:
   - 首页: 
     - index.md
-  - 工程赏析:
-    - proj/index.md
+  - 英语:
+    - english/index.md
   - 领域知识:
     - domain/index.md
     - 数学:
@@ -131,8 +131,8 @@ nav:
     - 网络:
       - domain/net/index.md
       - domain/net/1.md
-  - 英语:
-    - english/index.md
+  - 工程赏析:
+    - proj/index.md
   - 书籍:
     - book/index.md
     - 如何设计程序:
@@ -184,6 +184,7 @@ nav:
         - codelang/c/stl/index.md
         - codelang/c/stl/cpy.md
   - 工具:
+    - tool/index.md
     - 命令行:
       - tool/cmd/index.md
       - tool/cmd/man.md
@@ -192,8 +193,8 @@ nav:
       - tool/cmd/vim.md
       - tool/cmd/git.md
       - tool/cmd/pacman.md
-    - tool/makefile.md
-    - tool/markdown.md
-    - tool/jupyter.md 
-    - tool/manim.md 
+    - 脚本格式:
+      - tool/text/index.md
+      - tool/text/makefile.md
+      - tool/text/markdown.md
 

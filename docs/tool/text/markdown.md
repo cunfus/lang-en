@@ -1,8 +1,5 @@
-# Markdown
+# markdown
 
-忘记的时候记得打开看一下。
-
----
 
 Markdown 不常用操作
 

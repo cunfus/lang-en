@@ -1,4 +1,4 @@
-# Manual
+# man
 
 man 命令，相当有用。
 

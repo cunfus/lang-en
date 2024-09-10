@@ -1,4 +1,4 @@
-# Zsh
+# zsh
 
 !!! abstract
     介绍一些 shell 环境下常用的操作，和 zsh 的搭配用法。

@@ -1,6 +1,4 @@
-# Makefile
-
-!!! note "note for [makefile 命令教程](https://www.ruanyifeng.com/blog/2015/02/make.html)"
+# makefile
 
 make 规则中的每行命令是在一个单独的 shell 中执行的， 这和 shellscript 不同，做一个简单测试：
 
@@ -36,8 +34,6 @@ makefile 会按照目标依赖顺序执行规则，如果没有指定，那就�
 - `$(variable)` 类 bash 变量，= 两边可以空格，用() 而不是 {}
 - `$$shell_varuable` 这点确实不知道，makefile 会对 $ 转义，所以需要重复。
 
-
-
 makefile 支持变量，关于赋值语句，有下面的区分
 
 ```makefile
@@ -65,8 +61,9 @@ VARIABLE := value # 在定义时扩展，适合常量。
 
 逻辑分支、循环和函数就不展开了，至今很少遇见过使用的例子，频率太低。（大型项目一般上 cmake）
 
-## 使用
+## 参考
 
-参考 [这一篇](https://www.cnblogs.com/tp-16b/p/8955462.html) 的演变。
+- https://www.ruanyifeng.com/blog/2015/02/make.html
+- https://www.cnblogs.com/tp-16b/p/8955462.html
 
 

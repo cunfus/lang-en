@@ -1,4 +1,4 @@
-# Pacman
+# pacman
 
 pacman 是 arch 系 linux 的软件包管理工具，类似 redhat 系的 yum，debian 系的 apt。
 

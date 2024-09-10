@@ -1,4 +1,4 @@
-# Manim
+# manim
 
 
 ## 安装
