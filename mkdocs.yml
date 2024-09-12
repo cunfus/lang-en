@@ -197,4 +197,5 @@ nav:
       - tool/text/index.md
       - tool/text/makefile.md
       - tool/text/markdown.md
+    - tool/veracrypt.md
 
