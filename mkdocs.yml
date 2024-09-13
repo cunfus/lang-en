@@ -145,6 +145,9 @@ nav:
       - book/sicp/sicp-1.2.md
     - 数据结构和算法 in Python:
       - book/algo/index.md
+    - 21 世纪 C:
+      - book/21-century-c/index.md
+      - book/21-century-c/12.md
   - 课程:
     - course/index.md
     - 斯坦福食品与健康导论:
@@ -193,9 +196,12 @@ nav:
       - tool/cmd/vim.md
       - tool/cmd/git.md
       - tool/cmd/pacman.md
+      - tool/cmd/iptables.md
+      - tool/cmd/tcpdump.md
     - 脚本格式:
       - tool/text/index.md
       - tool/text/makefile.md
       - tool/text/markdown.md
+    - tool/wireshark.md
     - tool/veracrypt.md
 
