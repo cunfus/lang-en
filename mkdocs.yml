@@ -202,6 +202,8 @@ nav:
       - tool/text/index.md
       - tool/text/makefile.md
       - tool/text/markdown.md
+    - tool/python-net-ops.md
     - tool/wireshark.md
+    - tool/gns3.md
     - tool/veracrypt.md
 
