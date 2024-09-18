@@ -30,3 +30,11 @@
     - 喂，远程中心，修改岁月史书了 `git push origin master --force`
 
 
+## git init
+
+```bash
+#!/bin/bash
+repo_name=$1
+git init --bare  ${repo_name}.git  # 裸仓库
+chown -R git:git ${repo_name}.git
+```

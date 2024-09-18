@@ -133,6 +133,7 @@ nav:
       - domain/net/1.md
   - 工程赏析:
     - proj/index.md
+    - proj/libevent.md
   - 书籍:
     - book/index.md
     - 如何设计程序:
@@ -202,6 +203,9 @@ nav:
       - tool/text/index.md
       - tool/text/makefile.md
       - tool/text/markdown.md
+    - PlantUML:
+      - tool/plantuml/index.md
+      - tool/plantuml/sequence.md
     - tool/python-net-ops.md
     - tool/wireshark.md
     - tool/gns3.md
