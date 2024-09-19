@@ -119,6 +119,7 @@ nav:
     - index.md
   - 英语:
     - english/index.md
+  
   - 领域知识:
     - domain/index.md
     - 数学:
@@ -128,12 +129,14 @@ nav:
       - domain/enc/index.md
       - domain/enc/1.md
       - domain/enc/2.md
-    - 网络:
-      - domain/net/index.md
-      - domain/net/1.md
+    - RFC 文档:
+      - domain/rfc/index.md
+      # - domain/rfc/793.md
+  
   - 工程赏析:
     - proj/index.md
     - proj/libevent.md
+  
   - 书籍:
     - book/index.md
     - 如何设计程序:
@@ -149,17 +152,14 @@ nav:
     - 21 世纪 C:
       - book/21-century-c/index.md
       - book/21-century-c/12.md
+  
   - 课程:
     - course/index.md
     - 斯坦福食品与健康导论:
       - course/food-and-health/index.md
       - course/food-and-health/metabolism.md
       - course/food-and-health/glycemic-index.md
-    - 生命体征:
-      - course/vital-signs/index.md
-      - course/vital-signs/heart.md
-    - 寻找你的专业声音:
-      - course/finding-your-professional-voice/index.md
+  
   - 编程语言:
     - codelang/index.md
     - Patterns:
@@ -187,6 +187,7 @@ nav:
       - 标准库:
         - codelang/c/stl/index.md
         - codelang/c/stl/cpy.md
+  
   - 工具:
     - tool/index.md
     - 命令行:
@@ -203,9 +204,9 @@ nav:
       - tool/text/index.md
       - tool/text/makefile.md
       - tool/text/markdown.md
-    - PlantUML:
-      - tool/plantuml/index.md
-      - tool/plantuml/sequence.md
+      - plantuml:
+        - tool/plantuml/index.md
+        - tool/plantuml/sequence.md
     - tool/python-net-ops.md
     - tool/wireshark.md
     - tool/gns3.md
