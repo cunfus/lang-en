@@ -176,6 +176,15 @@ nav:
       - codelang/python/8.md
       - codelang/python/9.md
       - codelang/python/10.md
+    - Go:
+      - codelang/go/index.md
+      - codelang/go/1.md
+      - codelang/go/2.md
+      - codelang/go/3.md
+      - codelang/go/4.md
+      - codelang/go/5.md
+      - codelang/go/6.md
+      - codelang/go/7.md
     - C:
       - codelang/c/index.md
       - codelang/c/1.md
