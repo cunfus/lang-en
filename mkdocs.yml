@@ -119,6 +119,10 @@ nav:
     - index.md
   - 英语:
     - english/index.md
+    - 词汇:
+      - english/vocabulary/index.md
+      - english/vocabulary/1.md
+      
   
   - 领域知识:
     - domain/index.md
