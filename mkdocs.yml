@@ -1,13 +1,13 @@
 # refer from https://squidfunk.github.io/mkdocs-material/
-site_name: Memorandum
-site_description: Memorandum 
+site_name: 札记
+site_description: 札记 
 site_author: cunfus
 site_url: https://cunfus.github.io/memorandum
 
 # repo_name: 'cunfus/memorandum'
 # repo_url: https://github.com/cunfus/memorandum
 
-copyright: Copyright &copy; 2024 <a href="https://github.com/cunfus" target="_blank" rel="noopener">cunfus</a>
+# copyright: Copyright &copy; 2024 <a href="https://github.com/cunfus" target="_blank" rel="noopener">cunfus</a>
 
 
 
@@ -17,23 +17,7 @@ theme:
   custom_dir: overrides
   # logo:  asserts/images/logo.png
   favicon: asserts/images/code-solid.svg
-  palette:
-    - scheme: custom
-      # primary: orange
-      accent: orange
-      toggle:
-        icon: material/lightbulb
-        name: dark mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: eye-protection mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: light mode
+
   font:  
     text: 'LXGW WenKai Screen'
     code: 'Fira Code' 
@@ -57,12 +41,12 @@ extra_css:
 extra_javascript:
   - javascripts/english.js
 
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/cunfus
-    - icon: fontawesome/solid/envelope
-      link: mailto:<cunfuss@outlook.com>
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/cunfus
+#     - icon: fontawesome/solid/envelope
+#       link: mailto:<cunfuss@outlook.com>
 
 plugins:
   - git-revision-date-localized:
@@ -123,7 +107,13 @@ nav:
       - english/vocabulary/index.md
       - english/vocabulary/1.md
       
-  
+  - 课程:
+    - course/index.md
+    - 斯坦福食品与健康导论:
+      - course/food-and-health/index.md
+      - course/food-and-health/metabolism.md
+      - course/food-and-health/glycemic-index.md
+
   - 领域知识:
     - domain/index.md
     - 数学:
@@ -156,14 +146,7 @@ nav:
     - 21 世纪 C:
       - book/21-century-c/index.md
       - book/21-century-c/12.md
-  
-  - 课程:
-    - course/index.md
-    - 斯坦福食品与健康导论:
-      - course/food-and-health/index.md
-      - course/food-and-health/metabolism.md
-      - course/food-and-health/glycemic-index.md
-  
+    
   - 编程语言:
     - codelang/index.md
     - Patterns:
