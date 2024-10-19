@@ -1,8 +1,8 @@
 # refer from https://squidfunk.github.io/mkdocs-material/
-site_name: 札记
+site_name: 英文札记
 site_description: 札记 
 site_author: cunfus
-site_url: https://cunfus.github.io/memorandum
+site_url: https://cunfus.github.io/lang-en/
 
 # repo_name: 'cunfus/memorandum'
 # repo_url: https://github.com/cunfus/memorandum
@@ -93,14 +93,17 @@ markdown_extensions:
 
 ### 内容列表
 nav:
-  - 首页: 
+  - 索引: 
     - index.md
 
-  - 英语:
-    - english/index.md
-    - 词汇:
-      - english/vocabulary/index.md
-      - english/vocabulary/1.md
+  - 词汇:
+    - vocab/index.md
+    - 初级:
+      - vocab/basic/index.md
+      - vocab/basic/1.md
+  
+  - 语法:
+    - gram/index.md
 
   - 课程:
     - course/index.md
