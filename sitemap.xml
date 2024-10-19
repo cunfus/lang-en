@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://cunfus.github.io/memorandum/</loc>
+         <loc>https://cunfus.github.io/lang-en/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/course/</loc>
+         <loc>https://cunfus.github.io/lang-en/course/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/course/food-and-health/</loc>
+         <loc>https://cunfus.github.io/lang-en/course/food-and-health/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/course/food-and-health/glycemic-index/</loc>
+         <loc>https://cunfus.github.io/lang-en/course/food-and-health/glycemic-index/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/course/food-and-health/metabolism/</loc>
+         <loc>https://cunfus.github.io/lang-en/course/food-and-health/metabolism/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/course/food-and-health/protein/</loc>
+         <loc>https://cunfus.github.io/lang-en/course/food-and-health/protein/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/english/</loc>
+         <loc>https://cunfus.github.io/lang-en/gram/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/english/vocabulary/</loc>
+         <loc>https://cunfus.github.io/lang-en/vocab/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
     <url>
-         <loc>https://cunfus.github.io/memorandum/english/vocabulary/1/</loc>
+         <loc>https://cunfus.github.io/lang-en/vocab/basic/</loc>
+         <lastmod>2024-10-19</lastmod>
+    </url>
+    <url>
+         <loc>https://cunfus.github.io/lang-en/vocab/basic/1/</loc>
          <lastmod>2024-10-19</lastmod>
     </url>
 </urlset>
