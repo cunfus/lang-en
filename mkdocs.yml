@@ -17,7 +17,12 @@ theme:
   custom_dir: overrides
   # logo:  asserts/images/logo.png
   favicon: asserts/images/code-solid.svg
-
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: eye-protection mode
+        
   font:  
     text: 'LXGW WenKai Screen'
     code: 'Fira Code' 
@@ -101,6 +106,7 @@ nav:
     - 初级:
       - vocab/basic/index.md
       - vocab/basic/1.md
+      - vocab/basic/2.md
   
   - 语法:
     - gram/index.md
